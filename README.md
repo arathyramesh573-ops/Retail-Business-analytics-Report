@@ -96,13 +96,15 @@ Demographics
 
 📁 Project Structure
 --------------------
+
+```
 Retail-Business-Analytics-Report/
 │
 ├── power_bi_project.pbix
 ├── global_retail_sales_data.xlsx
 ├── RETAIL_ANALYSIS_PROJECT.pdf
 └── README.md
-
+```
 
 👩‍💻 Author
 -----------
