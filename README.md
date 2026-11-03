@@ -91,8 +91,11 @@ Demographics
 -------------------------
 1. Install Power BI Desktop.
 2. Clone this repository.
-3. Open power_bi_project.pbix.
-4. If prompted, update the data source path to global_retail_sales_data.xlsx.
+```
+git clone https://github.com/arathyramesh573-ops/Retail-Business-Analytics-Report.git
+```
+4. Open power_bi_project.pbix.
+5. If prompted, update the data source path to global_retail_sales_data.xlsx.
 
 📁 Project Structure
 --------------------
